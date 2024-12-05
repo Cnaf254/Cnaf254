@@ -39,10 +39,10 @@ Welcome to my GitHub profile! I'm a passionate **full-stack developer** and **ma
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cnaf254&layout=compact&theme=radical)
 
 ---
-## 🖥️ Profile Views
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Cnaf254)
 
----
+
+
 
 ## 🖥️ Notable Projects
 | Project Name | Description | Tech Stack | Link |
