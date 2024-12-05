@@ -35,9 +35,9 @@ Welcome to my GitHub profile! I'm a passionate **full-stack developer** and **ma
 ---
 
 ## 📈 GitHub Stats
-![Gezu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cnaf254&show_icons=true&theme=radical&cache_seconds=1800)
+![Gezu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cnaf254&show_icons=true&theme=radical&cache_seconds=60)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cnaf254&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cnaf254&layout=compact&theme=radical&cache_seconds=60)
 
 ---
 
