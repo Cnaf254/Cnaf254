@@ -3,11 +3,6 @@ Welcome to my GitHub profile! I'm a passionate **full-stack developer** and **ma
 
 ---
 
-## 🖥️ Profile Views
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Cnaf254)
-
----
-
 ## 🛠️ Skills and Technologies
 
 ### **Frontend**
