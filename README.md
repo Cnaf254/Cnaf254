@@ -3,6 +3,11 @@ Welcome to my GitHub profile! I'm a passionate **full-stack developer** and **ma
 
 ---
 
+## 🖥️ Profile Views
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Cnaf254)
+
+---
+
 ## 🛠️ Skills and Technologies
 
 ### **Frontend**
@@ -39,10 +44,6 @@ Welcome to my GitHub profile! I'm a passionate **full-stack developer** and **ma
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cnaf254&layout=compact&theme=radical)
 
 ---
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Cnaf254)
-
-
-
 
 ## 🖥️ Notable Projects
 | Project Name | Description | Tech Stack | Link |
@@ -57,5 +58,4 @@ Welcome to my GitHub profile! I'm a passionate **full-stack developer** and **ma
 ## 🌐 How to Reach Me
 - 📫 **Email:** [eshetugezu16@gmail.com](mailto:eshetugezu16@gmail.com)
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/gezueshetu16/](https://www.linkedin.com/in/gezueshetu16/)
-
 - 🌍 **Portfolio:** [https://gezu.netlify.app](https://gezu.netlify.app)
